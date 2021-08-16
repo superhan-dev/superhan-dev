@@ -1,26 +1,23 @@
-- 👋 Hi, I’m @superhan-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+### Software developer
+ with 3 years of experience in the software industry. 
+ 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/html-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/vue-logo.png" /> 
+<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/css-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Jsvascript" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/js-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Node Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/node-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Bootstrap Studio Code" width="30px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/bootstrap-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Visual Studio Code" width="37px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/springboot-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/java-logo.png" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/react-logo.png" /> 
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/mysql-logo.png" /> 
 
 
 <br />
