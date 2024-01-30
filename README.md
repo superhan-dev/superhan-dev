@@ -24,13 +24,15 @@ Recently studying in Melbourne for a Master's in Information Technology.
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp 
 </p>
 
+<!---
 ## 📈 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)](https://github.com/yourusername)
 
 ## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user1983Wx)
- 
+--->
+
 ## 📫 How to Reach Me
 
 - Email: superhan.dev@gmail.com
