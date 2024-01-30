@@ -1,5 +1,7 @@
 ### Software developer
- with 3 years of experience in the software industry. 
+
+## LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/user1983Wx)
  
 ### Languages and Tools
 
