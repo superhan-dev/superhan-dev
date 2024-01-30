@@ -1,9 +1,9 @@
-### Software developer
+# Software developer
 
-## LeetCode
+# LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user1983Wx)
  
-### Languages and Tools
+# Languages and Tools
 
 <img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/superhan-dev/assets-store/main/images/html-logo.png" /> 
 
