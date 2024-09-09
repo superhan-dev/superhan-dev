@@ -3,8 +3,8 @@
 
 # Hi there! 👋
 
-I'm Sanghyup Han, a passionate developer from Melbourne.</br>
-5 years of experience as a web full-stack programmer.</br>
+I'm Sanghyup Han, a web developer.</br>
+6 years of experience as a web full-stack programmer.</br>
 
 I love to explore new skills and Practice fundamental skills.<br/>
 Recently studying in Melbourne for a Master's in Information Technology.
