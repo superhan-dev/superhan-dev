@@ -7,7 +7,6 @@ I'm Sanghyup Han, a web developer.</br>
 6 years of experience as a web full-stack programmer.</br>
 
 I love to explore new skills and Practice fundamental skills.<br/>
-Recently studying in Melbourne for a Master's in Information Technology.
 
 ## 🛠️ Tech Stack
 <p align="center">
