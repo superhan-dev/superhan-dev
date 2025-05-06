@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm Sanghyup Han, a web developer.</br>
+I'm Sanghyup Han, a software developer.</br>
 6 years of experience as a web full-stack programmer.</br>
 
 I love to explore new skills and Practice fundamental skills.<br/>
