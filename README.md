@@ -22,12 +22,12 @@ I'm also highly interested in mobile development, especially building intuitive 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/TypeORM-FF5733?style=flat-square&logo=typeorm&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
+  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white"/>&nbsp
-  <br>
+  <br> 
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Emotion-C76494?style=flat-square&logo=emotion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp
@@ -38,8 +38,7 @@ I'm also highly interested in mobile development, especially building intuitive 
   <br>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>&nbsp
-  <br>
+  <br>-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
@@ -47,6 +46,7 @@ I'm also highly interested in mobile development, especially building intuitive 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=Rancher&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>&nbsp
 </p>
 
 <!---
