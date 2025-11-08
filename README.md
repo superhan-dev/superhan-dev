@@ -3,11 +3,13 @@
 
 # Hi there! 👋
 
-I'm Sanghyup Han, a passionate software developer with 6 years of experience in full-stack web development.<br/>
-I thrive on exploring new technologies while continuously sharpening my fundamentals.<br/>
+꾸준히 학습하고 학습의 기록을 남기는 것을 통해 정교한 스킬을 다듬어 가기는 것을 즐깁니다.
+하루 하루 쌓여가는 지식의 습득에 대한 재미는 계속해서 개발을 해나갈 수 있는 동기입니다.
 
-Currently, I'm deepening my expertise in frontend architecture (FSD), algorithms, Design Patterns and OOP.<br/> 
-I'm also highly interested in mobile development, especially building intuitive user experiences with React Native.<br/>  
+개발자라는 타이틀이 어색했던게 엇그제 같은데 어느덧 정체성이 되어 스스로를 달리게 만드는 힘이 되었습니다.
+그렇게 빠르지 않지만 꾸준하게 정확하게 커리어를 지속해 나가는 중입니다.
+
+<br/>  
 
 
 ## 🛠️ Tech Stack
