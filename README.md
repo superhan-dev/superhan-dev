@@ -48,8 +48,6 @@
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=Rancher&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>&nbsp
 </p>
 
 <!---
